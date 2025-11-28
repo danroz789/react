@@ -155,10 +155,10 @@ react/
 
 Все детальные отчеты доступны в папке [`testing/`](./testing/):
 
-- [`test_plan.md`](./testing/test_plan.md) - План тестирования
-- [`test_report.md`](./testing/test_report.md) - Детальные результаты тестов
-- [`feedback_summary.md`](./testing/feedback_summary.md) - Анализ обратной связи
-- [`issues.md`](./testing/issues.md) - Список найденных ошибок и улучшений
+- [`plans.md`] - План тестирования
+- [`reports.md`] - Детальные результаты тестов
+- [`feedback.md`] - Анализ обратной связи
+- [`issues.md`] - Список найденных ошибок и улучшений
 
 ## Внесенные улучшения
 
