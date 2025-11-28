@@ -32,7 +32,7 @@
 **Техническая среда:**
 - Браузеры: Chrome 119+, Firefox 120+
 - Устройства: Desktop (1920x1080)
-- ОС: Windows 11, macOS Ventura
+- ОС: Windows 10
 - Инструменты тестирования:
   - React Developer Tools
   - Chrome DevTools
